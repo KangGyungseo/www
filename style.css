@@ -120,14 +120,20 @@ a {
 @media screen and (max-width: 900px){
 	
 	.me {
-		
+		border-radius: 200px;
 		top: 300px;
-		left: 50px;
+		left: 0px;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
 	}
 
 	.design {
-		top: 500px;
-		left: 50px;
+		top: 600px;
+		left: 0px;
+		width: 200px;
+		height: 200px;
+		border-radius: 100px;
 		
 	}
 
